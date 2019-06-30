@@ -41,3 +41,5 @@ Phase 2: Game-Logic Implementation
 - Move Validation ( Color Coding ).
 - Win Validation.
 - Score – Timer.
+
+APK Download Link: http://projects.dataclustersystems.in/shikaku/shikaku.apk
